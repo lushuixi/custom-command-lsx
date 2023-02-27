@@ -1,0 +1,22 @@
+{
+  "name": "custom-command-lsx",
+  "version": "1.0.5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sugar123": "./bin/sugar123.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lushuixi/custom-command-lsx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lushuixi/custom-command-lsx/issues"
+  },
+  "homepage": "https://github.com/lushuixi/custom-command-lsx#readme",
+  "author": "露水晰123",
+  "license": "ISC",
+  "description": "2023/2/27 , custom node command sugar123"
+}
